@@ -59,10 +59,10 @@
       <!-- Gambar Desa -->
       <div class="col-md-6 d-flex">
         <div class="w-100" style="border: 2px solid #ddd; border-radius: 10px; overflow: hidden;">
-          <img src="media/fotoblog/1546832669.jpg" 
-               alt="Foto Desa" 
-               class="img-fluid w-100 h-100" 
-               style="object-fit: cover; max-height: 356px;">
+          <img src="<?= base_url('media/fotoblog/1546832669.jpg') ?>" 
+            alt="Foto Desa" 
+            class="img-fluid w-100 h-100" 
+            style="object-fit: cover; max-height: 356px;">
         </div>
       </div>
 
